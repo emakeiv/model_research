@@ -1,0 +1,9 @@
+[core]
+      remote = remote
+      autostage = false
+
+['remote', "remote"]
+      url = s3://bucketname
+      endpoint = https://s3.ifnotawsoriginals3.com
+      access_key_id = codo2024
+      secret_access_key = secret_key
